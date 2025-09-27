@@ -1,4 +1,4 @@
-# React Project - README
+# React Project
 
 ## 1. What is JSX, and why is it used?
 
@@ -16,13 +16,13 @@ It returns a state value and a function to update it:
 
 ```js
 const [count, setCount] = useState(0);
-4. How can you share state between components in React?
+```
+
+## 4. How can you share state between components in React?
 By lifting the state up to a common parent and passing it down as props to child components.
 
-5. How is event handling done in React?
+## 5. How is event handling done in React?
 React uses camelCase syntax for events and functions are passed directly:
-
-jsx
-Copy code
+```js
 <button onClick={handleClick}>Click Me</button>
 ```
