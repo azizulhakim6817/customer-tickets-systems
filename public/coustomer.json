@@ -1,0 +1,92 @@
+[
+  {
+    "id": "#0001",
+    "title": "Login issue",
+    "description": "Customer cannot log in despite correct credentials and multiple password reset attempts.",
+    "customer": "John Doe",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-12"
+  },
+  {
+    "id": "#0002",
+    "title": "Payment gateway error",
+    "description": "Payment fails with credit card, even after using multiple cards and methods.",
+    "customer": "Jane Smith",
+    "priority": "CRITICAL PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "2024-01-14"
+  },
+  {
+    "id": "#0003",
+    "title": "Page not loading",
+    "description": "Dashboard page takes too long to load, causing delays across devices and browsers.",
+    "customer": "Alex Johnson",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Closed",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": "#0004",
+    "title": "Email not received",
+    "description": "Customer verification emails not received, preventing account activation and login.",
+    "customer": "Emily Davis",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": "#0005",
+    "title": "Mobile app crash",
+    "description": "App crashes when opening Profile, even after reinstalling and clearing cache.",
+    "customer": "Michael Brown",
+    "priority": "HIGH PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": "#0006",
+    "title": "Refund not processed",
+    "description": "Customer refund not reflected in account despite multiple requests to support.",
+    "customer": "Sophia Wilson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-18"
+  },
+  {
+    "id": "#0007",
+    "title": "Error 500 on checkout",
+    "description": "Server returns Error 500 during checkout, preventing completion of purchases.",
+    "customer": "David Miller",
+    "priority": "CRITICAL PRIORITY",
+    "status": "Closed",
+    "createdAt": "2024-01-19"
+  },
+  {
+    "id": "#0008",
+    "title": "UI glitch",
+    "description": "Buttons overlap on small screens, making navigation difficult for users.",
+    "customer": "Olivia Martinez",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": "#0009",
+    "title": "Slow search results",
+    "description": "Search takes too long, over ten seconds, affecting productivity on all devices.",
+    "customer": "William Anderson",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "2024-01-21"
+  },
+  {
+    "id": "#0010",
+    "title": "Forgot password not working",
+    "description": "Password reset emails are not sent, preventing users from accessing accounts.",
+    "customer": "Isabella Thomas",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2024-01-22"
+  }
+]
