@@ -1,3 +1,9 @@
+## Natlify Live link : 
+https://customer-tickets-systems.netlify.app/
+
+## github live link: 
+https://github.com/azizulhakim6817/customer-tickets-systems
+
 # React Project
 
 ## 1. What is JSX, and why is it used?
