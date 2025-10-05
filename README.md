@@ -1,6 +1,5 @@
 ## Natlify Live link : 
 https://calm-kitsune-9814bc.netlify.app/
-https://customer-tickets-systems.netlify.app/
 
 ## github live link: 
 https://github.com/azizulhakim6817/customer-tickets-systems
